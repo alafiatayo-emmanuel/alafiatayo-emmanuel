@@ -45,9 +45,9 @@ Through my professional experiences, volunteer efforts, and continuous upskillin
 
 ## 🤳 Connect with me:
 
-[<img align="left" alt="Alafiatayo Emmanuel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="color: #1DA1F2;" />][twitter]
-[<img align="left" alt="Alafiatayo Emmanuel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color: #0077B5;" />][linkedin]
-[<img align="left" alt="Alafiatayo Emmanuel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color: #E4405F;" />][instagram]
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
 [twitter]: https://twitter.com/EAlafiatayo  
 [linkedin]: https://www.linkedin.com/in/emmanuel-alafiatayo-191693136  
