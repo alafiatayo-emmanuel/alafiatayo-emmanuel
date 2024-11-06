@@ -55,10 +55,10 @@ Through my professional experiences, volunteer efforts, and continuous upskillin
 
 ---
 
-<!--
+
 ✨ Fun fact: My first computer was a gift from my dad, sparking my lifelong passion for technology!
 🔭 I’m currently working on expanding my AI research for industrial applications in Africa.
--->
+
 
 
 Let’s connect and collaborate to advance sustainable AI and build a more inclusive digital future for all.
