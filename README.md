@@ -1,5 +1,5 @@
 # Hi, I'm Emmanuel Alafiatayo!  
-[![Machine Learning Engineer](https://img.shields.io/badge/Machine%20Learning%20Engineer-blue)](https://github.com/alafiatayo-emmanuel) [![Data Scientist](https://img.shields.io/badge/Data%20Scientist-blue)](https://www.linkedin.com/in/emmanuel-alafiatayo-191693136/) [![Cybersecurity Analyst](https://img.shields.io/badge/Cybersecurity%20Analyst-blue)](https://www.youtube.com/c/emmanuelalafiayo)
+[![Machine Learning Engineer](https://img.shields.io/badge/Machine%20Learning%20Engineer-blue)](https://github.com/alafiatayo-emmanuel) [![Data Scientist](https://img.shields.io/badge/Data%20Scientist-blue)](https://www.linkedin.com/in/emmanuel-alafiatayo-191693136/) [![Cybersecurity Analyst](https://img.shields.io/badge/Cybersecurity%20Analyst-blue)](https://www.youtube.com/c/emmanuelalafiayo) 
 
 ### Welcome to my GitHub Profile!
 
